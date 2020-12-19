@@ -1,0 +1,41 @@
+#wrapper{
+    width :auto ;
+    margin : auto;
+}
+
+#header{
+    color: white;
+    background-color: white;
+    float: top;
+    width: 100%;
+    height: 150px;
+}
+
+.letak{
+    width: 78%;
+    margin-left: 120px; 
+    margin-top: 50px;
+}
+.tabel{
+    width: 50%;
+
+}
+
+.content{
+    width: 50%;
+}
+
+#isi{
+    color:black;
+	width:100%;
+	height:800px;
+	border-radius:25px;
+	background-color: rgba(255, 255, 255, 0);
+}
+
+#footer{
+    color: white;
+    background-color: rgb(14, 77, 144);
+    width: 100%;
+    height: 100px;
+}
